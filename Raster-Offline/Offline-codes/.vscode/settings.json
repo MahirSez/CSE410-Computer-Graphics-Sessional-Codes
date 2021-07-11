@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "iostream": "cpp",
+        "*.ipp": "cpp",
+        "cmath": "cpp",
+        "chrono": "cpp",
+        "ostream": "cpp",
+        "iomanip": "cpp"
+    }
+}

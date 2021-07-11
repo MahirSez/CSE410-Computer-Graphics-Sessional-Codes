@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iomanip": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    },
+    "code-runner.preserveFocus": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.showRunCommandInEditorContextMenu": false
+}
